@@ -1,0 +1,826 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=zaidstudios.whatsapptools",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "puffles",
+      "name": "Puffles",
+      "publisher": "Mohd Zaid",
+      "tray_image_file": "puffles23.webp",
+      "publisher_email":"monis.z.786@gmail.com",
+      "publisher_website": "https://play.google.com/store/apps/dev?id=8144597860499618446",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "puffles1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles25.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles26.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles27.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles28.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles29.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puffles30.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "humanoid",
+      "name": "Humanoids",
+      "publisher": "Mohd Zaid",
+      "tray_image_file": "humanoid19.webp",
+      "publisher_email":"monis.z.786@gmail.com",
+      "publisher_website": "https://play.google.com/store/apps/dev?id=8144597860499618446",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "humanoid1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid25.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid26.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid27.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid28.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid29.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid30.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "humanoid2",
+      "name": "Humanoids 2",
+      "publisher": "Mohd Zaid",
+      "tray_image_file": "humanoid36.webp",
+      "publisher_email":"monis.z.786@gmail.com",
+      "publisher_website": "https://play.google.com/store/apps/dev?id=8144597860499618446",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "humanoid31.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid32.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid33.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid34.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid35.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid36.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid37.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid38.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid39.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid40.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid41.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid42.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid43.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid44.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid45.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid46.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid47.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid48.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid49.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid50.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "humanoid51.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "humanoid_girl",
+      "name": "Humanoid (Girl)",
+      "publisher": "Mohd Zaid",
+      "tray_image_file": "girl28.webp",
+      "publisher_email":"monis.z.786@gmail.com",
+      "publisher_website": "https://play.google.com/store/apps/dev?id=8144597860499618446",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "girl1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl25.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl26.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl27.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl28.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl29.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "girl30.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "womaniya",
+      "name": "Womaniya",
+      "publisher": "Mohd Zaid",
+      "tray_image_file": "womaniya1.webp",
+      "publisher_email":"monis.z.786@gmail.com",
+      "publisher_website": "https://play.google.com/store/apps/dev?id=8144597860499618446",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "womaniya1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "womaniya20.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "college",
+      "name": "College",
+      "publisher": "Mohd Zaid",
+      "tray_image_file": "college9.webp",
+      "publisher_email":"monis.z.786@gmail.com",
+      "publisher_website": "https://play.google.com/store/apps/dev?id=8144597860499618446",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "college1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "college24.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "sports",
+      "name": "Sports",
+      "publisher": "Mohd Zaid",
+      "tray_image_file": "sports13.webp",
+      "publisher_email":"monis.z.786@gmail.com",
+      "publisher_website": "https://play.google.com/store/apps/dev?id=8144597860499618446",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sports1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports25.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports26.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports27.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports28.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sports29.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    }
+  ]
+}

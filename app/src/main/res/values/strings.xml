@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Stickey</string>
+    <string name="other_apps">Other apps by me</string>
+    <string name="tray_image_content_description">Sticker Pack Tray Image</string>
+    <string name="more_info_button">More info about sticker pack</string>
+    <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <string name="add_button_content_description">Add sticker pack to WhatsApp</string>
+    <string name="title_activity_sticker_packs_list">Sticker Packs</string>
+    <string name="dot">•</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Sticker Pack</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Sticker details</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <string name="view_webpage">View webpage</string>
+    <string name="send_email">Send email</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="error_adding_sticker_pack">Could not add this sticker pack. Please install the latest version of WhatsApp before adding sticker pack</string>
+    <string name="error_message">Error: %s \nSee logcat for stack trace.</string>
+    <string name="title_validation_error">Error with the pack</string>
+    <string name="info_screen_tray_icon">Tray icon</string>
+    <string name="details_pack_already_added">Sticker pack added to WhatsApp</string>
+    <string name="info_send_email_to_prompt">Send email with</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Sticker pack not added. If you\'d like to add it, make sure you update to the latest version of WhatsApp.</string>
+    <string name="add_pack_fail_prompt_update_play_link">Update</string>
+    <string name="cannot_find_play_store">Google Play is not installed on the device.</string>
+
+    <string name="app_id">ca-app-pub-4900647799030452~4604739124</string>
+    <string name="inter_my">ca-app-pub-4900647799030452/7175062146</string>
+    <string name="banner_normal">ca-app-pub-4900647799030452/6971882162</string>
+    <string name="banner_large">ca-app-pub-4900647799030452/5275657117</string>
+
+    <string name="his_banner">ca-app-pub-7395572779611582/8820984603</string>
+    <string name="his_banner_two">ca-app-pub-7395572779611582/1293848372</string>
+    <string name="his_interstitial">ca-app-pub-7395572779611582/3623254971</string>
+</resources>
